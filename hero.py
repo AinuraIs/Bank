@@ -21,7 +21,7 @@ class SuperHero:
         return len(self.catchphrase)
 
 
-hero = SuperHero("Iron Man", "Тони Старк", "Технологический гений", 100, "Я – Железный Человек!")
+hero =  SuperHero("Iron Man", "Тони Старк", "Технологический гений", 100, "Я – Железный Человек!")
 hero.get_name()
 hero.double_health_points()
 print(hero)
