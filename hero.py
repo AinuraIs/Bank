@@ -25,4 +25,4 @@ hero =  SuperHero("Iron Man", "Тони Старк", "Технологическ
 hero.get_name()
 hero.double_health_points()
 print(hero)
-print(f'Длина коронной фразы героя:',hero.__len__())
+ print(f'Длина коронной фразы героя:',hero.__len__())
