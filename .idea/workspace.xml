@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7e177d-90b5-4854-9084-bac9e2c4193c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/bank" beforeDir="false" afterPath="$PROJECT_DIR$/bank" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank/home/bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank/home/bank.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank/home/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/bank/home/users.py" afterDir="false" />
-    </list>
+    <list default="true" id="1c7e177d-90b5-4854-9084-bac9e2c4193c" name="Changes" comment="hw7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,6 +169,15 @@
       <option name="presentableId" value="Default" />
       <updated>1702028687581</updated>
     </task>
+    <task id="LOCAL-00001" summary="hw7">
+      <option name="closed" value="true" />
+      <created>1704285558978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704285558978</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,5 +190,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw7" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw7" />
   </component>
 </project>
