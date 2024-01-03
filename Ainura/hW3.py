@@ -1,5 +1,4 @@
-from calculator import Calculator
-class Bank:
+from calclass Bank:
     def __init__(self, name, balance):
         self._name = name
         self._balance = balance
@@ -32,3 +31,4 @@ account1._merge_balance(account2)
 print(f"{account1._name}'s balance: {account1._balance}")
 print(f"{account2._name}'s balance: {account2._balance}")
 
+culator import Calculator
