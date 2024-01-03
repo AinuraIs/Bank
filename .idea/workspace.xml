@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7e177d-90b5-4854-9084-bac9e2c4193c" name="Changes" comment="hw7" />
+    <list default="true" id="1c7e177d-90b5-4854-9084-bac9e2c4193c" name="Changes" comment="hw7">
+      <change afterPath="$PROJECT_DIR$/bank/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank/home/eni.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2moons/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank" beforeDir="false" afterPath="$PROJECT_DIR$/bank" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2moons" beforeDir="false" afterPath="$PROJECT_DIR$/task2moons" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
